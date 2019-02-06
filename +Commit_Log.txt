@@ -1,0 +1,8 @@
+2019-02-07 Thu. -Get Processes Info Release 1.
+
+- Developed Core Functions
+- Developing showing detailed Information
+- Developing Editing "Custom Mode"
+- Developing Reading "Custom Mode Items"
+- Fixed some bugs
+- Optimized Functions

@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\Get Processes INFO.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\Get Processes INFO.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\Get Processes INFO.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\GetProcessesInfo.MainProject.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\GetProcessesInfo.Resources.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\bin\Debug\GetProcessesInfo.exe.config
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\bin\Debug\GetProcessesInfo.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\bin\Debug\GetProcessesInfo.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\bin\Debug\GetProcessesInfo.xml
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\GetProcessesInfo.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\GetProcessesInfo.xml
+C:\Users\SAMSUNG\Documents\Visual Studio 2017\Projects\UniConverter Project\Get Processes INFO\obj\Debug\GetProcessesInfo.pdb
