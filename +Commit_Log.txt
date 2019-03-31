@@ -1,5 +1,0 @@
-2019-02-09 Sat. -Get Processes Info V1.0.0.0 Final Version (Release 2).
-
-- Developed showing detailed Information
-- Fixed some bugs
-- Optimized Functions
